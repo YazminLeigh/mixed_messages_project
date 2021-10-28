@@ -3,7 +3,6 @@
 ## Table of Contents 
 + [General Information](#General-Information)
 + [Technologies Used](#Technologies-Used)
-+ [Setup](#Setup)
 + [Project Status](#Project-Status)
 + [Acknowledgements](#Acknowledgements)
 
@@ -19,7 +18,7 @@ This project generates a random ridiculous adventure to the console when used.
 
 
 ## Project Status
-Project status is complete.
+COMPLETE
 
 ## Acknowledgements
-+ Codecademy Full-Stack Engineer course.
+Codecademy Full-Stack Engineer course.
